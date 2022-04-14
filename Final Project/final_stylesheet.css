@@ -37,6 +37,7 @@ body
 .picture_container
 {
     display: flex;
+    justify-content: space-evenly;
 }
 .picture_container img
 {
